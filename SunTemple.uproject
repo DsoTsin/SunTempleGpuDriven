@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{9C47B080-4F68-E85B-6E3D-7E8BAA9EA85F}",
+	"Category": "Samples",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SunTemple",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"TargetPlatforms": [
+		"IOS",
+		"MacNoEditor",
+		"WindowsNoEditor",
+		"Android"
+	],
+	"EpicSampleNameHash": "3038063013"
+}

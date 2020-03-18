@@ -1,0 +1,6 @@
+[submodule "Plugins/NxCull"]
+	path = Plugins/NxCull
+	url = https://github.com/DsoTsin/NxCull
+[submodule "Plugins/MeshCluster"]
+	path = Plugins/MeshCluster
+	url = https://github.com/DsoTsin/MeshCluster
