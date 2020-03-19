@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{9C47B080-4F68-E85B-6E3D-7E8BAA9EA85F}",
+	"EngineAssociation": "{D27EAD77-4F26-9253-5063-A0B07AF943FE}",
 	"Category": "Samples",
 	"Description": "",
 	"Modules": [
@@ -10,6 +10,7 @@
 			"LoadingPhase": "Default"
 		}
 	],
+	"Plugins": [],
 	"TargetPlatforms": [
 		"IOS",
 		"MacNoEditor",
